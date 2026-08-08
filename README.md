@@ -31,7 +31,9 @@ This project demonstrates how AI can be integrated into an automated workflow to
 
 ## 📸 Workflow
 
-![Make.com Workflow](Screenshots/AI Agent WorkFlow.PNG)
+## 📸 Workflow
+
+![Make.com Workflow](Screenshots/AI%20Agent%20WorkFlow.PNG)
 
 ## 🚀 Automation Flow
 
