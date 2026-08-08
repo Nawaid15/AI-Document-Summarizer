@@ -61,4 +61,4 @@ Want to build your own AI-powered automation?
 
 👉 **[Try Make.com](https://www.make.com/en/register?pc=nawaidai)**
 
-*Affiliate link — I may earn a commission if you purchase through this link.*
+*Affiliate link — thanks for supporting the project.*
