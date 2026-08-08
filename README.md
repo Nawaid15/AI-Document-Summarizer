@@ -27,7 +27,7 @@ An automated AI workflow that analyzes documents and generates clear, structured
 
 ## 🎯 Purpose
 
-This project demonstrates how AI can be integrated into an automated workflow to transform a document into a useful summary without manually copying and pasting the content into an AI tool.
+The idea behind this project is to automate document summarization instead of manually copying the content into an AI tool and sending the result yourself.
 
 ## 📸 Workflow
 
@@ -51,7 +51,7 @@ A concise, structured AI-generated summary containing the important information 
 
 ## 🔗 Built With
 
-This project was created as a practical experiment in **AI automation and workflow integration**.
+This project is built as a practical experiment with AI automation, Make.com, and Google Gemini.
 
 ---
 
@@ -59,6 +59,6 @@ This project was created as a practical experiment in **AI automation and workfl
 
 Want to build your own AI-powered automation?
 
-👉 **[Try Make.com](YOUR_AFFILIATE_LINK)**
+👉 **[Try Make.com](https://www.make.com/en/register?pc=nawaidai)**
 
 *Affiliate link — I may earn a commission if you purchase through this link.*
