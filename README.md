@@ -59,6 +59,6 @@ This project is built as a practical experiment with AI automation, Make.com, an
 
 Want to build your own AI-powered automation?
 
-👉 **[Try Make.com](https://www.make.com/en/register?pc=nawaidai)**
+👉 **[Sign Up Make.com for free](https://www.make.com/en/register?pc=nawaidai)**
 
 *Affiliate link — thanks for supporting the project.*
